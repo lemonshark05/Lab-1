@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Instructions](#Instructions)
-3. [Sample usage](#Sample usage)
+3. [Sample usage](#Sample)
 4. [Deployment](#Deployment)
 
 ## Overview
@@ -20,6 +20,6 @@ Lab1 in CS590
 
 ## Instructions
 
-## Sample usage
+## Sample
 
 ## Deployment
